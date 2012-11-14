@@ -8,6 +8,10 @@ Initial release.
 
 Renamed folders `javascript` to `js` and `images` to `img`.
 
+### November 14, 2012
+
+Forcing the scrollbars to show all the time (main.css).
+
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
