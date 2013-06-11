@@ -18,8 +18,14 @@ body {
   font-family: "Trebuchet MS";
   font-size: 14px;
 }
-::selection,
-::-moz-selection,
+::selection {
+  background: #555;
+  color: #FFF;
+}
+::-moz-selection {
+  background: #555;
+  color: #FFF;
+}
 ::-webkit-selection {
   background: #555;
   color: #FFF;
