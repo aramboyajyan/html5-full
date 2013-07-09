@@ -1,0 +1,43 @@
+
+/**
+ * @file
+ * Main responsive stylesheet file.
+ *
+ * Created by: Topsitemakers
+ * http://www.topsitemakers.com/
+ */
+
+
+/*****************************************************************************
+ * Desktop
+ ****************************************************************************/
+@media (min-width: 980px) {
+  .show-mobile {
+    display: none!important;
+  }
+  .show-desktop {
+    display: inline!important;
+  }
+}
+/* Desktop end */
+
+
+/*****************************************************************************
+ * Desktop
+ ****************************************************************************/
+@media (max-width: 980px) {
+  .show-mobile {
+    display: inline!important;
+  }
+  .show-desktop {
+    display: none!important;
+  }
+}
+/* Desktop end */
+
+
+/*****************************************************************************
+ * Various other styles
+ ****************************************************************************/
+
+/* Various other styles end */
