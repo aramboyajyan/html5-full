@@ -1,12 +1,16 @@
-# Simple HTML5 template
+# HTML5 template
 
-Base HTML5 template for quick prototyping. Coming with [jQuery](http://jquery.com) and [Modernizr](http://modernizr.com) and  [Normalize.css](http://necolas.github.com/normalize.css/).
+Full blown HTML5 template.
 
 ### Libraries used
 
 [jQuery](http://jquery.com)  
 [Modernizr](http://modernizr.com)  
-[normalize.css](http://necolas.github.com/normalize.css/) (v2.0.1)
+[Twitter Bootstrap](http://getbootstrap.com/)  
+[Respond JS](https://github.com/scottjehl/Respond)  
+[Underscore](http://underscorejs.org/)  
+[AngularJS](https://angularjs.org/)
+[FontAwesome](http://fontawesome.io/)
 
 <hr>
 
