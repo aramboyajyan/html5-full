@@ -14,10 +14,6 @@
 html {
   overflow-y: scroll;
 }
-body {
-  font-family: "Trebuchet MS";
-  font-size: 14px;
-}
 ::selection {
   background: #555;
   color: #FFF;
