@@ -6,8 +6,10 @@
  * Created by: Topsitemakers
  * http://www.topsitemakers.com/
  */
-$(document).ready(function(){
+
+jQuery.noConflict();
+jQuery(document).ready(function($) {
   
-  // 
+  console.log('main.js loaded');
 
 });
